@@ -3,9 +3,8 @@
 A Python application that converts payment data from CSV files to SEPA Credit Transfer XML format (pain.001.001.03). Features both GUI and CLI modes with built-in validation, macOS compatibility layer, and system diagnostics.
 
 ![Status](https://img.shields.io/badge/status-production%20ready-brightgreen)
-![Tests](https://img.shields.io/badge/tests-5%2F5%20passing-success)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Performance](https://img.shields.io/badge/performance-5.3k%20rows%2Fs-brightgreen)
+![Performance](https://img.shields.io/badge/performance-10k%20in%200.66s-brightgreen)
 
 ## Demo Tutorial
 
