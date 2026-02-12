@@ -1,0 +1,18 @@
+# CSV to SEPA XML Converter - Python Dependencies
+
+# This project uses only Python standard library modules.
+# No external dependencies are required for core functionality.
+
+# Standard library modules used:
+# - tkinter (GUI - included with most Python installations)
+# - xml.etree.ElementTree (XML generation)
+# - csv (CSV parsing)
+# - datetime (timestamp generation)
+# - logging (audit trail)
+# - argparse (CLI argument parsing)
+# - pathlib (file path handling)
+# - re (regex for validation)
+
+# Optional: For development/testing
+# pytest>=7.0.0  # Uncomment if you want to run tests
+# pylint>=2.0.0  # Uncomment for code linting

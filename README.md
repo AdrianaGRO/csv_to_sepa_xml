@@ -28,6 +28,31 @@ Watch on YouTube: https://www.youtube.com/watch?v=5BbBlSZ4T2s
 - Python 3.8+
 - Tkinter (needed for GUI mode only; CLI works without it)
 
+## Installation
+
+### For Developers
+
+1. Clone the repository from GitHub
+   ```bash
+   git clone https://github.com/AdrianaGRO/csv_to_sepa_xml.git
+   cd csv_to_sepa_xml
+   ```
+
+2. Install dependencies (if any)
+   ```bash
+   pip install -r requirements.txt
+   ```
+   *Note: This project uses only Python standard library modules, so no external dependencies are required.*
+
+3. Prepare your CSV file with payment data (see CSV Format section below)
+
+4. Run the converter
+   ```bash
+   python3 -m csv_to_sepa_xml.main
+   ```
+
+5. Upload the generated XML to your bank's portal
+
 ## Quick Start
 
 ### Method 1: Run as Module (Recommended)
